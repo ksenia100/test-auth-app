@@ -68,7 +68,7 @@ This project is a React application built with TypeScript and Tailwind CSS, feat
 Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/ksenia100/test-auth-app.git
-cd formula-input
+cd test-auth-app
 npm install
 ```
 
